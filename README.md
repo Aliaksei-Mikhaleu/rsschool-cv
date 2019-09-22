@@ -1,1 +1,1 @@
-https://github.com/Aliaksei-Mikhaleu/github.io/blob/master/cv.md
+https://github.com/Aliaksei-Mikhaleu/rsschool-cv/blob/gh-pages/cv.md
