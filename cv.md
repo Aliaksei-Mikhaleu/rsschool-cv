@@ -1,5 +1,5 @@
 # Aliaksei Mikhaleu
-###Contacts
+### Contacts
 +375 (29) 572-38-67 mikhaleu.aliaksei@gmail.com
 ### Education
 * Degree in Mechanical Engineering, speciality 'Autoservice', [Belarusian
